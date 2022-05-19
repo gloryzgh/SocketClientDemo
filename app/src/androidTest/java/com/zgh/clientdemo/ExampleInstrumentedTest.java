@@ -1,4 +1,4 @@
-package com.ford.clientdemo;
+package com.zgh.clientdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
